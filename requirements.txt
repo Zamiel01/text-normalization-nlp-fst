@@ -1,0 +1,5 @@
+click==8.3.1
+graphviz==0.21
+jiwer==4.0.0
+pynini==2.1.7
+RapidFuzz==3.14.3
